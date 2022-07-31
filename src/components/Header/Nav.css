@@ -1,0 +1,21 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    list-style-type: none;
+    margin-right: 30px;
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}

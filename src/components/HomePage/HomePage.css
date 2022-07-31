@@ -1,0 +1,10 @@
+.homepage-photo{
+    height: 400px;
+    margin-top: 40px;
+}
+
+.homepage p {
+    color: rgb(21, 11, 221);
+    font-size: 20px;
+    margin: 5%;
+}

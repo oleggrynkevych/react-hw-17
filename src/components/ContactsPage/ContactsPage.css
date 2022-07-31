@@ -1,0 +1,31 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+.search-input{
+    border: 3px solid rgb(18, 24, 191);
+    border-radius: 30px;
+    background-color: black;
+    width: 55%;
+    height: 10px;
+    padding: 15px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+  }
+
+.search-input::placeholder{
+    color: rgb(239, 254, 255);
+  }
+
+input, select, textarea{
+    color: rgb(239, 254, 255);
+}
+
+.search-input:focus{
+    outline: none !important;
+    border-color: rgb(18, 24, 191);
+}

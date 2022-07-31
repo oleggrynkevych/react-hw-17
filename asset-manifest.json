@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-hw-17/static/css/main.3760c7df.css",
+    "main.js": "/react-hw-17/static/js/main.3cc7c734.js",
+    "static/js/787.d83427c7.chunk.js": "/react-hw-17/static/js/787.d83427c7.chunk.js",
+    "static/media/photo1.jpeg": "/react-hw-17/static/media/photo1.194de1c41892d0848f43.jpeg",
+    "static/media/photo3.jpeg": "/react-hw-17/static/media/photo3.091b6f61cfe46cc6b764.jpeg",
+    "static/media/photo6.jpeg": "/react-hw-17/static/media/photo6.bc6d21307b5f6bfff094.jpeg",
+    "static/media/photo5.jpeg": "/react-hw-17/static/media/photo5.4cdf2d9af4b8049a810c.jpeg",
+    "static/media/photo8.jpeg": "/react-hw-17/static/media/photo8.146059123fc949f6baa1.jpeg",
+    "static/media/photo9.jpeg": "/react-hw-17/static/media/photo9.591c8fe439fb1a70dca3.jpeg",
+    "static/media/photo4.jpeg": "/react-hw-17/static/media/photo4.9cf5209848a8313ce551.jpeg",
+    "static/media/photo2.jpeg": "/react-hw-17/static/media/photo2.c07876d20278046ae5d2.jpeg",
+    "static/media/photo7.jpeg": "/react-hw-17/static/media/photo7.e52329a0e14946a69f28.jpeg",
+    "index.html": "/react-hw-17/index.html",
+    "main.3760c7df.css.map": "/react-hw-17/static/css/main.3760c7df.css.map",
+    "main.3cc7c734.js.map": "/react-hw-17/static/js/main.3cc7c734.js.map",
+    "787.d83427c7.chunk.js.map": "/react-hw-17/static/js/787.d83427c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3760c7df.css",
+    "static/js/main.3cc7c734.js"
+  ]
+}

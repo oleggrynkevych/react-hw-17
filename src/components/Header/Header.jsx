@@ -1,6 +1,6 @@
 import {Component} from "react";
+import Nav from "../Nav/Nav";
 import "./Header.css";
-import Nav from "./Nav";
 
 export default class Header extends Component {
     render() {
